@@ -1,0 +1,8 @@
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\bin\Debug\CabilbiganCompany.dacpac
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\CabilbiganCompany.sqlproj.AssemblyReference.cache
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\Model.xml
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\refactor.xml
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\postdeploy.sql
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\predeploy.sql
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\CabilbiganCompany.dll
+C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\CabilbiganCompany.pdb
