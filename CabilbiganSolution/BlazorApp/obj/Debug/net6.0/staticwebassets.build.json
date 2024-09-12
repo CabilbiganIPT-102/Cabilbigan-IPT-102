@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KtbGlgjp8g4slu7weSUslitC4zSSs1hI0fCUojgYOe8=",
+  "Hash": "n/+PLQEihl9ZIzxhqQA4fIYQLzjgts+VyyM2+TV1B0g=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\background-image\\images.jpg",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\background-image\\images.jpg",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/background-image/images.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\background-image\\images.jpg"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\css\\site.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\favicon.ico",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\Image\\how-to-paint-sunset-trees-in-acrylic-final-600.jpg",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\Image\\how-to-paint-sunset-trees-in-acrylic-final-600.jpg",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "Image/how-to-paint-sunset-trees-in-acrylic-final-600.jpg",
       "AssetKind": "All",

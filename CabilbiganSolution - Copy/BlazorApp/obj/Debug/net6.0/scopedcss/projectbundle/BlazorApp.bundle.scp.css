@@ -1,0 +1,225 @@
+/* _content/BlazorApp/Pages/Index.razor.rz.scp.css */
+body[b-w6l7chfipm] {
+    background-image: url(https://th.bing.com/th/id/R.b47fb01e4479894df0da87157072c37f?rik=9gxGiDkEI5d9tA&riu=http%3a%2f%2fwww.zastavki.com%2fpictures%2foriginals%2f2013%2fNature___Sundown___Yellow_sunset_on_the_beach_054572_.jpg&ehk=mAkDJPQYc0nVXRhBOHhYg8WYgZ8LX2jDm4YbTXn1jvE%3d&risl=&pid=ImgRaw&r=0.jpg);
+}
+/* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
+.page[b-3dsd3z3yec] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://th.bing.com/th/id/R.b47fb01e4479894df0da87157072c37f?rik=9gxGiDkEI5d9tA&riu=http%3a%2f%2fwww.zastavki.com%2fpictures%2foriginals%2f2013%2fNature___Sundown___Yellow_sunset_on_the_beach_054572_.jpg&ehk=mAkDJPQYc0nVXRhBOHhYg8WYgZ8LX2jDm4YbTXn1jvE%3d&risl=&pid=ImgRaw&r=0.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main[b-3dsd3z3yec] {
+    flex: 1;
+}
+
+.sidebar[b-3dsd3z3yec] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+
+}
+
+.top-row[b-3dsd3z3yec] {
+    background-color: indigo;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-3dsd3z3yec]  a, .top-row .btn-link[b-3dsd3z3yec] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+
+    }
+
+    .top-row a:first-child[b-3dsd3z3yec] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-3dsd3z3yec] {
+        display: none;
+    }
+
+    .top-row.auth[b-3dsd3z3yec] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-3dsd3z3yec], .top-row .btn-link[b-3dsd3z3yec] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-3dsd3z3yec] {
+        flex-direction: row;
+
+    }
+
+    .sidebar[b-3dsd3z3yec] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-3dsd3z3yec] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+
+    }
+
+    .top-row[b-3dsd3z3yec], article[b-3dsd3z3yec] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+.btn-12[b-3dsd3z3yec],
+.btn-12 *[b-3dsd3z3yec],
+.btn-12 [b-3dsd3z3yec]:after,
+.btn-12 [b-3dsd3z3yec]:before,
+.btn-12[b-3dsd3z3yec]:after,
+.btn-12[b-3dsd3z3yec]:before {
+    border: 0 solid;
+    box-sizing: border-box;
+}
+
+.btn-12[b-3dsd3z3yec] {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-appearance: button;
+    background-color: #000;
+    background-image: none;
+    color: #fff;
+    cursor: pointer;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-size: 100%;
+    font-weight: 900;
+    line-height: 1.5;
+    margin: 0;
+    -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+    padding: 0;
+    text-transform: uppercase;
+}
+
+    .btn-12:disabled[b-3dsd3z3yec] {
+        cursor: default;
+    }
+
+    .btn-12:-moz-focusring[b-3dsd3z3yec] {
+        outline: auto;
+    }
+
+    .btn-12 svg[b-3dsd3z3yec] {
+        display: block;
+        vertical-align: middle;
+    }
+
+    .btn-12 [hidden][b-3dsd3z3yec] {
+        display: none;
+    }
+
+.btn-12[b-3dsd3z3yec] {
+    border-radius: 99rem;
+    border-width: 2px;
+    overflow: hidden;
+    padding: 0.8rem 3rem;
+    position: relative;
+}
+
+    .btn-12 span[b-3dsd3z3yec] {
+        mix-blend-mode: difference;
+    }
+
+    .btn-12[b-3dsd3z3yec]:after,
+    .btn-12[b-3dsd3z3yec]:before {
+        background: linear-gradient( 90deg, #fff 25%, transparent 0, transparent 50%, #fff 0, #fff 75%, transparent 0 );
+        content: "";
+        inset: 0;
+        position: absolute;
+        transform: translateY(var(--progress, 100%));
+        transition: transform 0.2s ease;
+    }
+
+    .btn-12[b-3dsd3z3yec]:after {
+        --progress: -100%;
+        background: linear-gradient( 90deg, transparent 0, transparent 25%, #fff 0, #fff 50%, transparent 0, transparent 75%, #fff 0 );
+        z-index: -1;
+    }
+
+    .btn-12:hover[b-3dsd3z3yec]:after,
+    .btn-12:hover[b-3dsd3z3yec]:before {
+        --progress: 0;
+    }
+/* _content/BlazorApp/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-7cxxmz0cwl] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-7cxxmz0cwl] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-7cxxmz0cwl] {
+    font-size: 1.1rem;
+}
+
+.oi[b-7cxxmz0cwl] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-7cxxmz0cwl] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-7cxxmz0cwl] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-7cxxmz0cwl] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-7cxxmz0cwl]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-7cxxmz0cwl]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-7cxxmz0cwl]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-7cxxmz0cwl] {
+        display: none;
+    }
+
+    .collapse[b-7cxxmz0cwl] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
