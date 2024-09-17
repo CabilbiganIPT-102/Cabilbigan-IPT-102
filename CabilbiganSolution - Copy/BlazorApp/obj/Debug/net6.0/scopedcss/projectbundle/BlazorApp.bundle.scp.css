@@ -1,14 +1,15 @@
 /* _content/BlazorApp/Pages/Index.razor.rz.scp.css */
 body[b-w6l7chfipm] {
-    background-image: url(https://th.bing.com/th/id/R.b47fb01e4479894df0da87157072c37f?rik=9gxGiDkEI5d9tA&riu=http%3a%2f%2fwww.zastavki.com%2fpictures%2foriginals%2f2013%2fNature___Sundown___Yellow_sunset_on_the_beach_054572_.jpg&ehk=mAkDJPQYc0nVXRhBOHhYg8WYgZ8LX2jDm4YbTXn1jvE%3d&risl=&pid=ImgRaw&r=0.jpg);
+    background-image: url(https://i.pinimg.com/564x/e8/40/76/e84076d0ee0fd99937e8cb61db22175d.jpg);
 }
 /* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3dsd3z3yec] {
     position: relative;
     display: flex;
     flex-direction: column;
-    background-image: url(https://th.bing.com/th/id/R.b47fb01e4479894df0da87157072c37f?rik=9gxGiDkEI5d9tA&riu=http%3a%2f%2fwww.zastavki.com%2fpictures%2foriginals%2f2013%2fNature___Sundown___Yellow_sunset_on_the_beach_054572_.jpg&ehk=mAkDJPQYc0nVXRhBOHhYg8WYgZ8LX2jDm4YbTXn1jvE%3d&risl=&pid=ImgRaw&r=0.jpg);
+    background-image: url(https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     height: 100vh;
+    width: 50;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

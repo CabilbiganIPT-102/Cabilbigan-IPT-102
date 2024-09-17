@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = C:\Cabilbigan\CabilbiganSolution\BlazorApp\
+build_property.ProjectDir = C:\new\IPT-102\CabilbiganSolution - Copy\BlazorApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Cabilbigan\CabilbiganSolution\BlazorApp
+build_property.MSBuildProjectDirectory = C:\new\IPT-102\CabilbiganSolution - Copy\BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/App.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/Counter.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/FetchData.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Shared/SurveyPrompt.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/_Imports.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/Index.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-w6l7chfipm
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Shared/MainLayout.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3dsd3z3yec
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Shared/NavMenu.razor]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7cxxmz0cwl
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/Error.cshtml]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/_Host.cshtml]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cabilbigan/CabilbiganSolution/BlazorApp/Pages/_Layout.cshtml]
+[C:/new/IPT-102/CabilbiganSolution - Copy/BlazorApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

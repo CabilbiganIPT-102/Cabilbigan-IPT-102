@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Cabilbigan\\CabilbiganSolution\\BlazorApp\\obj\\",
+      "outputPath": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
