@@ -1,0 +1,54 @@
+﻿@page "/Event"
+
+<div class="container mt-5 text-center">
+    <h2 class="mb-4">Get to Know Me</h2>
+
+    <p class="lead">My Name: <strong>@_test</strong></p>
+
+    <div class="d-flex justify-content-center mt-4" role="group" aria-label="Name Entry Buttons">
+        <button class="btn btn-success mx-2" @onclick="EnterFirst">First Name</button>
+        <button class="btn btn-info mx-2" @onclick="EnterLast">Last Name</button>
+        <button class="btn btn-warning mx-2" @onclick="EnterCourse">Course</button>
+        <button class="btn btn-warning mx-2" @onclick="EnterSex">Sex</button>
+        <button class="btn btn-warning mx-2" @onclick="EnterAge">Age</button>
+        <button class="btn btn-warning mx-2" @onclick="EnterLocation">Location</button>
+    </div>
+</div>
+
+@code
+{
+    private string _test = string.Empty;
+
+    private void EnterLast()
+    {
+        _test = "Cabilbigan";
+    }
+
+    private void EnterFirst()
+    {
+        _test = "Jessebel";
+    }
+
+    private void EnterCourse()
+    {
+        _test = "BSIT-3";
+    }
+
+
+    private void EnterSex()
+    {
+        _test = "Female";
+    }
+
+    private void EnterAge()
+    {
+        _test = "20";
+    }
+
+    private void EnterLocation()
+    {
+        _test = "San Mateo, Aleosan";
+    }
+
+
+}

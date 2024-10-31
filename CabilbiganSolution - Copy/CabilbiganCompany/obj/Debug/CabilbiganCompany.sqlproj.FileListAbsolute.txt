@@ -6,3 +6,13 @@ C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\postdeploy.sql
 C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\predeploy.sql
 C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\CabilbiganCompany.dll
 C:\Cabilbigan\CabilbiganSolution\CabilbiganCompany\obj\Debug\CabilbiganCompany.pdb
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\bin\Debug\CabilbiganCompany.dacpac
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\CabilbiganCompany.sqlproj.AssemblyReference.cache
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\Model.xml
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\refactor.xml
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\postdeploy.sql
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\predeploy.sql
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\CabilbiganCompany.dll
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\obj\Debug\CabilbiganCompany.pdb
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\bin\Debug\CabilbiganCompany.dll
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganCompany\bin\Debug\CabilbiganCompany.pdb

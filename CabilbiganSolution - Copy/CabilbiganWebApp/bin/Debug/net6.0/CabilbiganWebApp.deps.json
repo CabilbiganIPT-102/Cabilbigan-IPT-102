@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CabilbiganWebApp/1.0.0": {
+        "dependencies": {
+          "CabilbiganClassLib": "1.0.0"
+        },
+        "runtime": {
+          "CabilbiganWebApp.dll": {}
+        }
+      },
+      "CabilbiganClassLib/1.0.0": {
+        "runtime": {
+          "CabilbiganClassLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CabilbiganWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CabilbiganClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

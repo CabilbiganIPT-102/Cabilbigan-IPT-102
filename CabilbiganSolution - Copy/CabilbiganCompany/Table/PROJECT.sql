@@ -3,7 +3,9 @@
 	[Pname] VARCHAR(15) NOT NULL, 
     [Pnumber] INT NOT NULL, 
     [PLocation] VARCHAR(15) NULL, 
-    [Dnum] INT NOT NULL 
+    [Dnum] INT NOT NULL,
+    CONSTRAINT[PK_PROJECT_Pnumber]PRIMARY KEY ([Pnumber])
 )
+
 GO
-CREATE NONCLUSTERED INDEX[IX_PROJECT_location] ON [PROJECT] ([Plocation] asc)
+CREATE NONCLUSTERED INDEX[IX_PROJECT_PLocation] ON [PROJECT] ([PLocation] ASC)

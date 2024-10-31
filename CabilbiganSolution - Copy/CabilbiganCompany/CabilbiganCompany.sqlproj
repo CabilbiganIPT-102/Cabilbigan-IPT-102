@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{f359a744-d542-4d9c-b2b0-af3cbe55fc25}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -57,6 +57,8 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Table" />
+    <Folder Include="Scripts" />
+    <Folder Include="StoredProcedure" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table\EMPLOYEE.sql" />
@@ -65,8 +67,21 @@
     <Build Include="Table\PROJECT.sql" />
     <Build Include="Table\WORKS_ON.sql" />
     <Build Include="Table\DEPENDENT.sql" />
+    <Build Include="StoredProcedure\Create.sql" />
+    <Build Include="StoredProcedure\Delete.sql" />
+    <Build Include="StoredProcedure\Read.sql" />
+    <Build Include="StoredProcedure\Update.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="CabilbiganCompany.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\DepartmentScript.sql" />
+    <None Include="Scripts\DependentScript.sql" />
+    <None Include="Scripts\Dept_LocationsScript.sql" />
+    <None Include="Scripts\Employee.Script.sql" />
+    <None Include="Scripts\ProjectSripts.sql" />
+    <None Include="Scripts\Works_OnScript.sql" />
+    <None Include="CabilbiganCompany.publish.xml" />
   </ItemGroup>
 </Project>

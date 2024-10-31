@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\new\\IPT-102\\CabilbiganSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|c:\\new\\ipt-102\\cabilbigansolution\\blazorapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|c:\\new\\ipt-102\\cabilbigansolution\\blazorapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|c:\\new\\ipt-102\\cabilbigansolution\\blazorapp\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|c:\\new\\ipt-102\\cabilbigansolution\\blazorapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DD552D9-6B41-466E-A1E6-81EABFA6CEC9}|BlazorApp\\BlazorApp.csproj|c:\\new\\ipt-102\\cabilbigansolution\\blazorapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.razor.css",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Pages\\Index.razor.css",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\Index.razor.css",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Shared\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "BlazorApp\\Shared\\MainLayout.razor.css",
@@ -118,28 +118,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\Index.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorApp\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T23:53:16.856Z"
+              "WhenOpened": "2024-09-05T23:53:16.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Shared\\MainLayout.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution\\BlazorApp\\Shared\\MainLayout.razor",
               "RelativeToolTip": "BlazorApp\\Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T23:37:35.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T23:37:35.322Z"
             }
           ]
         }

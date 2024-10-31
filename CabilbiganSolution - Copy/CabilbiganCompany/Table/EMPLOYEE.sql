@@ -9,9 +9,10 @@
     [Sex] CHAR(10) NULL, 
     [Salary] DECIMAL(10, 2) NULL, 
     [Super_ssn] CHAR(9) NULL, 
-    [Dno] INT NOT NULL 
-    constraint [PK_Employee_Ssn] primary key ([Ssn])
-);
+    [Dno] INT NOT NULL,
+   CONSTRAINT [PK_EMPLOYEE_Ssn] PRIMARY KEY ([Ssn])
+)
+
 GO
 
-create nonclustered index[IX,Employee_Name] ON [dbo].[Employee]([Lname] ASC, [Fname] ASC);
+CREATE NONCLUSTERED INDEX[IX,Employee_Name] ON [EMPLOYEE] ([Lname] ASC)

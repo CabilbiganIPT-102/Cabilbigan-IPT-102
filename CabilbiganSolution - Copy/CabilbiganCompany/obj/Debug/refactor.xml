@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="9691d4ee-5523-4ba0-a897-9dcbb213b9ca" ChangeDateTime="09/04/2024 19:00:06" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Fname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="67464b89-cdfe-4929-9f5f-6eda564e7fb5" ChangeDateTime="09/04/2024 19:14:44" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Lname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Minit" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5917f766-1ed6-48fb-a246-f614abb852c5" ChangeDateTime="09/04/2024 19:15:05" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Ssn]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Fname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="641c8027-455a-4b86-bff1-3331e08b43fb" ChangeDateTime="09/04/2024 19:17:38" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Bdate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Ssn" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ac7ed61d-a22c-4a19-88f0-630eef41c060" ChangeDateTime="09/04/2024 19:18:22" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Address]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Bdate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4530ae80-e612-427c-80b6-64ed29557d1c" ChangeDateTime="09/04/2024 19:18:49" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Sex]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Address" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="aa99923f-d7b5-4cad-adff-fa82b2cb15b1" ChangeDateTime="09/04/2024 19:19:36" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Salary]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Sex" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2aeec20b-0074-4ad8-9814-7b0a93097882" ChangeDateTime="09/04/2024 19:20:38" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Super_ssn]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Salary" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b033c8c0-463e-4af3-8111-5ccb83549476" ChangeDateTime="09/04/2024 19:21:06" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Dno]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Super_ssn" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="834bfa34-9834-4403-9be2-f807ba1362a7" ChangeDateTime="09/04/2024 19:29:59" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPARTMENT].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPARTMENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dname " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="10590f9d-879f-418c-9b25-c52f906281c8" ChangeDateTime="09/04/2024 19:37:51" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPT_LOCATIONS].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPT_LOCATIONS]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dnumber" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a8116ca4-795c-4fe8-a7ed-dc3a12819e5c" ChangeDateTime="09/04/2024 19:38:18" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPT_LOCATIONS].[Dlocations]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPT_LOCATIONS]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dlocation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ea03c7f8-f86c-4b96-acde-4f760cf7fb5f" ChangeDateTime="09/04/2024 19:38:58" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[PROJECT].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PROJECT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Pname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="82199045-29fa-42ba-9a8c-0f8936585eea" ChangeDateTime="09/04/2024 19:39:43" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[PROJECT].[Plocations]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[PROJECT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Plocation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="712de043-41dd-4c19-b03e-93b7df7619bd" ChangeDateTime="09/04/2024 19:41:02" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[WORKS_ON].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WORKS_ON]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Essn" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="05663e8a-318d-4d6f-aec5-742a88b21d71" ChangeDateTime="09/04/2024 19:43:17" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Fname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Essn" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2ea00b72-8bcb-4bc5-ac62-4fc72bd46fa9" ChangeDateTime="09/04/2024 19:44:24" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Minit]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dependent_name" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f4f06a86-5fa2-4c72-b16e-850d1520a142" ChangeDateTime="09/04/2024 19:45:03" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Lname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Sex" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7bb6e442-6b50-4d95-ab15-48474b1b47fb" ChangeDateTime="09/04/2024 19:52:46" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPENDENT].[Ssn]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPENDENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Bdate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="aca00bc9-7835-4357-b65c-e1217a485a16" ChangeDateTime="10/25/2024 02:58:43" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPARTMENT].[Dname ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPARTMENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DName " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8d31c2c4-c902-49a4-aafa-37e482693996" ChangeDateTime="10/25/2024 02:58:57" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPARTMENT].[Dnumber]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPARTMENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DNumber" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="775caba3-d183-4923-be84-8c2143cf41c5" ChangeDateTime="10/25/2024 03:09:18" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPARTMENT].[DName ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPARTMENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dname " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6cf46751-ce88-49eb-9fa6-52a8b946b077" ChangeDateTime="10/25/2024 03:09:26" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[DEPARTMENT].[DNumber]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DEPARTMENT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Dnumber" />
+  </Operation>
+</Operations>

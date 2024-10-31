@@ -1,0 +1,218 @@
+﻿@page "/"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="StyleSheet.css">
+    <title>Login Page</title>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Poppins", sans-serif;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background-image: url('https://i.pinimg.com/enabled/1200x/1d/ad/72/1dad72786ead0a37b93dde119cf58b86.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+
+        h2 {
+            margin: 20px;
+            color: white;
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .navbar {
+            width: 100%;
+            display: flex;
+            justify-content: end;
+            padding: 10px 20px;
+            position: absolute;
+            top: 1;
+            left: 0;
+            z-index: 1000;
+        }
+
+            .navbar a {
+                color: white;
+                text-decoration: none;
+                margin: 0 18px;
+                font-size: 20px;
+                font-family: 'Times New Roman', Times, serif;
+            }
+
+                .navbar a:hover {
+                    text-decoration: underline;
+                }
+
+        .wrapper {
+            margin-top: 70px;
+            width: 420px;
+            background-color: rgba(34, 34, 34, 0.8);
+            color: white;
+            border-radius: 10px;
+            padding: 30px 40px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+            .wrapper h1 {
+                font-size: 36px;
+                text-align: center;
+            }
+
+        .input-box {
+            width: 100%;
+            height: 50px;
+            background-color: white;
+            margin: 30px 0;
+            position: relative;
+            border-radius: 40px;
+            overflow: hidden;
+        }
+
+            .input-box input {
+                width: 100%;
+                height: 100%;
+                background: transparent;
+                border: none;
+                outline: none;
+                border: 2px solid rgba(255, 255, 255, .2);
+                font-size: 16px;
+                color: black;
+                padding: 10px 50px 10px 20px;
+            }
+
+                .input-box input::placeholder {
+                    color: black;
+                }
+
+            .input-box i {
+                position: absolute;
+                right: 15px;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 20px;
+                color: black;
+            }
+
+        .wrapper .remember-forgot {
+            display: flex;
+            justify-content: space-between;
+            font-size: 14.5px;
+            margin: -15px 0 15px;
+        }
+
+        .remember-forgot label input {
+            accent-color: white;
+            margin-right: 3px;
+        }
+
+        .remember-forgot a {
+            color: white;
+            text-decoration: none;
+        }
+
+            .remember-forgot a:hover {
+                text-decoration: underline;
+            }
+
+        .wrapper .btn {
+            width: 100%;
+            height: 45px;
+            background-color: white;
+            border: none;
+            outline: none;
+            border-radius: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+            cursor: pointer;
+            font-size: 16px;
+            color: black;
+            font-weight: 600;
+        }
+
+        .wrapper .register-link {
+            font-size: 14.5px;
+            text-align: center;
+            margin: 20px 0 15px;
+        }
+
+        .register-link p a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+            .register-link p a:hover {
+                text-decoration: underline;
+            }
+
+        footer {
+            background-color: black;
+            color: white;
+            padding: 10px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+            bottom: 0;
+            margin-top: 10%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>BOOKSTORE</h2>
+    </div>
+    <div class="navbar">
+        <a href="Home">Home</a>
+        <a href="Products">Products</a>
+        <a href=" Interactive"> Interactive</a>
+        <a href="Event">Event</a>
+        <a href="Cart">Cart</a>
+    </div>
+
+    <div class="wrapper">
+        <form action="YOUR_ACTION_URL_HERE" method="POST">
+            <h1>Login</h1>
+            <div class="input-box">
+                <input type="text" placeholder="Username" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="input-box">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox"> Remember me</label>
+                <a href="#">Forgot password?</a>
+            </div>
+            <button type="submit" class="btn">Login</button>
+            <div class="register-link">
+                <p>Don't have an account? <a href="#">Register</a></p>
+            </div>
+          
+
+        </form>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+        <p>
+            <a href="#" style="color: white; text-decoration: none;">Privacy Policy</a> |
+            <a href="#" style="color: white; text-decoration: none;">Terms of Service</a>
+        </p>
+    </footer>
+</body>
+</html>

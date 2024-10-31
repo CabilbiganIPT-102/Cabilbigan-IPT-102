@@ -1,0 +1,12 @@
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\bin\Debug\net6.0\CabilbiganClassLib.deps.json
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\bin\Debug\net6.0\CabilbiganClassLib.dll
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\bin\Debug\net6.0\CabilbiganClassLib.pdb
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.AssemblyInfoInputs.cache
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.AssemblyInfo.cs
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.csproj.CoreCompileInputs.cache
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.sourcelink.json
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.dll
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\refint\CabilbiganClassLib.dll
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\CabilbiganClassLib.pdb
+C:\new\IPT-102\CabilbiganSolution - Copy\CabilbiganClassLib\obj\Debug\net6.0\ref\CabilbiganClassLib.dll

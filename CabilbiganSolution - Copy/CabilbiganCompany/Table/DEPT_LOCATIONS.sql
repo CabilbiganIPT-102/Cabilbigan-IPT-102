@@ -2,6 +2,10 @@
 (
 	[Dnumber] INT NOT NULL, 
     [Dlocation] VARCHAR(15) NOT NULL ,
-	primary key(Dnumber, Dlocation),
-	foreign key(Dnumber) references Department(Dnumber) 
-)
+	CONSTRAINT [PK_Dlocation] PRIMARY KEY (Dnumber, Dlocation),
+	CONSTRAINT [FX_Dnumber] FOREIGN KEY(Dnumber)  REFERENCES DEPARTMENT(Dnumber) 
+
+);
+GO
+
+CREATE NONCLUSTERED INDEX [IX_DEPT.LOCATION_LOCATION] ON [DEPT_LOCATIONS] ([Dlocation] ASC)

@@ -1,0 +1,67 @@
+﻿@page "/Interactive"
+
+<div class="container mt-5">
+    <h5 class="text-center mb-4">PERSONAL INFORMATION</h5>
+
+    @if (showUResponse)
+    {
+        <div class="alert alert-success">
+            <h4>PERSONAL DETAILS:</h4>
+            <p><strong>FIRST NAME:</strong> @Input.Fname</p>
+            <p><strong>LAST NAME:</strong> @Input.Lname</p>
+            <p><strong>EMAIL:</strong> @Input.Email</p>
+            <p><strong>PRODUCT:</strong> @Input.Product</p>
+        </div>
+    }
+
+    <EditForm Model="Input" OnValidSubmit="SubmitUResponse" name="Response-form">
+        <div class="mb-3">
+            <label class="form-label" for="Fname">First Name</label>
+            <InputText @bind-Value="Input.Fname" class="form-control" id="Fname" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Lname">Last Name</label>
+            <InputText @bind-Value="Input.Lname" class="form-control" id="Lname" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Email">Email</label>
+            <InputText @bind-Value="Input.Email" class="form-control" id="Email" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Product">Product</label>
+            <InputText @bind-Value="Input.Product" class="form-control" id="Product" />
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <button class="btn btn-outline-success" type="submit">SAVE</button>
+            <button class="btn btn-outline-danger" type="button" @onclick="NewResponse">NEW</button>
+        </div>
+    </EditForm>
+</div>
+
+@code
+{
+    private UResponse Input { get; set; } = new();
+
+    private bool showUResponse;
+
+    private void NewResponse()
+    {
+        Input = new UResponse();
+        showUResponse = false;
+    }
+
+    private void SubmitUResponse()
+    {
+        showUResponse = true;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        showUResponse = false;
+        await base.OnInitializedAsync();
+    }
+}

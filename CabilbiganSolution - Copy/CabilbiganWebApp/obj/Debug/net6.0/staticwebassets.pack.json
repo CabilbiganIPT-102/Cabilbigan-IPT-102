@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CabilbiganWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CabilbiganWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\1.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\A Gentle Reminder.jpg",
+      "PackagePath": "staticwebassets\\css\\A Gentle Reminder.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\It Ends With Us.jpg",
+      "PackagePath": "staticwebassets\\css\\It Ends With Us.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\The Psychology of Money.jpg",
+      "PackagePath": "staticwebassets\\css\\The Psychology of Money.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\The Ritual The Sinner The Sacrifice.jpg",
+      "PackagePath": "staticwebassets\\css\\The Ritual The Sinner The Sacrifice.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\atomic habbits.jpg",
+      "PackagePath": "staticwebassets\\css\\atomic habbits.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\background.jpg",
+      "PackagePath": "staticwebassets\\css\\background.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CabilbiganWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CabilbiganWebApp.props",
+      "PackagePath": "build\\CabilbiganWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CabilbiganWebApp.props",
+      "PackagePath": "buildMultiTargeting\\CabilbiganWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CabilbiganWebApp.props",
+      "PackagePath": "buildTransitive\\CabilbiganWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
