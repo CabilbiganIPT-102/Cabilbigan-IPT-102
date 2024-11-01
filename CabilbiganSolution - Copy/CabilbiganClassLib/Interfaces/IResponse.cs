@@ -11,7 +11,7 @@ namespace CabilbiganClassLib.Interfaces
         string? Fname { get; set; }
         string? Lname { get; set; }
         string? Email { get; set; }
-        string? Product { get; set; }
+        string? ProductName { get; set; }
 
     }
 }

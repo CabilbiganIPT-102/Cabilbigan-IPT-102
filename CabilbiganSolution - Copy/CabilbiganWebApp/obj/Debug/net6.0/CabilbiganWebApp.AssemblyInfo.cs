@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CabilbiganWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fd021a709590a5ede0e9b37b9b1f55e86b449a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8de8cfefb3182b3ddeda975e86e12564793524f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CabilbiganWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CabilbiganWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

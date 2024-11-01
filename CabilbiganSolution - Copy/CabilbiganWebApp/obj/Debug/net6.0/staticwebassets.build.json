@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eNWWKNDkRBRTHzuq0CTdvNGzZIoeRQK7NZ5ARJQXnF0=",
+  "Hash": "qSB7YlHo3bA2aoLIXOOEUvb7uciniznjzv0YBfpiVVo=",
   "Source": "CabilbiganWebApp",
   "BasePath": "_content/CabilbiganWebApp",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\css\\atomic habbits.jpg"
     },
     {
-      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\background.jpg",
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bg.jpg",
       "SourceId": "CabilbiganWebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\",
       "BasePath": "_content/CabilbiganWebApp",
-      "RelativePath": "css/background.jpg",
+      "RelativePath": "css/bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\background.jpg"
+      "OriginalItemSpec": "wwwroot\\css\\bg.jpg"
+    },
+    {
+      "Identity": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\book bg.webp",
+      "SourceId": "CabilbiganWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\",
+      "BasePath": "_content/CabilbiganWebApp",
+      "RelativePath": "css/book bg.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\book bg.webp"
     },
     {
       "Identity": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",

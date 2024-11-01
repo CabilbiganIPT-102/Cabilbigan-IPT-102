@@ -29,8 +29,12 @@
       "PackagePath": "staticwebassets\\css\\atomic habbits.jpg"
     },
     {
-      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\background.jpg",
-      "PackagePath": "staticwebassets\\css\\background.jpg"
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bg.jpg",
+      "PackagePath": "staticwebassets\\css\\bg.jpg"
+    },
+    {
+      "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\book bg.webp",
+      "PackagePath": "staticwebassets\\css\\book bg.webp"
     },
     {
       "Id": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",

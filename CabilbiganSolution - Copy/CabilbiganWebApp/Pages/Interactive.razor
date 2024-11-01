@@ -10,7 +10,7 @@
             <p><strong>FIRST NAME:</strong> @Input.Fname</p>
             <p><strong>LAST NAME:</strong> @Input.Lname</p>
             <p><strong>EMAIL:</strong> @Input.Email</p>
-            <p><strong>PRODUCT:</strong> @Input.Product</p>
+            <p><strong>PRODUCT NAME:</strong> @Input.ProductName</p>
         </div>
     }
 
@@ -31,8 +31,8 @@
         </div>
 
         <div class="mb-3">
-            <label class="form-label" for="Product">Product</label>
-            <InputText @bind-Value="Input.Product" class="form-control" id="Product" />
+            <label class="form-label" for="ProductName">ProductName</label>
+            <InputText @bind-Value="Input.ProductName" class="form-control" id="ProductName" />
         </div>
 
         <div class="d-flex justify-content-between">
