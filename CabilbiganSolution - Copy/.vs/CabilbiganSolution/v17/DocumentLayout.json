@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\interactive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\StoredProcedure\\Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|solutionrelative:CabilbiganCompany\\StoredProcedure\\Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\Scripts\\Employee.Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|solutionrelative:CabilbiganCompany\\Scripts\\Employee.Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -55,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|c:\\new\\ipt-102\\cabilbigansolution - copy\\cabilbiganwebapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1908A21-DB64-44A5-A3A6-D02C9885063E}|CabilbiganWebApp\\CabilbiganWebApp.csproj|solutionrelative:cabilbiganwebapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -85,6 +93,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorWebApp\\Pages\\Event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorWebApp\\Pages\\Event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\Scripts\\Employee.Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|solutionrelative:CabilbiganCompany\\Scripts\\Employee.Script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\StoredProcedure\\Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F359A744-D542-4D9C-B2B0-AF3CBE55FC25}|CabilbiganCompany\\CabilbiganCompany.sqlproj|solutionrelative:CabilbiganCompany\\StoredProcedure\\Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,11 +110,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Update.sql ",
+              "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\StoredProcedure\\Update.sql",
+              "RelativeDocumentMoniker": "CabilbiganCompany\\StoredProcedure\\Update.sql",
+              "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\StoredProcedure\\Update.sql\r\n(localdb)\\ProjectModels.CabilbiganCompany\r\n(DESKTOP-BLPH810\\Administrator)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-05T18:19:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.Script.sql ",
+              "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\Scripts\\Employee.Script.sql",
+              "RelativeDocumentMoniker": "CabilbiganCompany\\Scripts\\Employee.Script.sql",
+              "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganCompany\\Scripts\\Employee.Script.sql",
+              "RelativeToolTip": "CabilbiganCompany\\Scripts\\Employee.Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-05T18:19:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Program.cs",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Program.cs",
@@ -106,12 +145,11 @@
               "RelativeToolTip": "CabilbiganWebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:04:15.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T21:04:15.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Cart.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Cart.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Cart.razor",
@@ -119,11 +157,12 @@
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Cart.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T21:04:02.579Z"
+              "WhenOpened": "2024-10-31T21:04:02.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Error.cshtml",
@@ -135,33 +174,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Home.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Home.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Home.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T21:03:51.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Products.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Products.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Products.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Products.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Products.razor",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T21:03:48.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\_Host.cshtml",
@@ -173,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\_Layout.cshtml",
@@ -185,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\_Imports.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\_Imports.razor",
@@ -197,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "UResponse.cs",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Data\\UResponse.cs",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Data\\UResponse.cs",
@@ -205,8 +244,7 @@
               "RelativeToolTip": "CabilbiganWebApp\\Data\\UResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:57:27.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:57:27.312Z"
             },
             {
               "$type": "Document",
@@ -216,14 +254,14 @@
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Event.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Event.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Event.razor",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T20:56:50.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorWebApp\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorWebApp\\Shared\\MainLayout.razor",
@@ -235,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorWebApp\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorWebApp\\Shared\\NavMenu.razor",
@@ -247,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Shared\\NavMenu.razor",
@@ -259,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Shared\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Shared\\NavMenu.razor.css",
@@ -271,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "IResponse.cs",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganClassLib\\Interfaces\\IResponse.cs",
               "RelativeDocumentMoniker": "CabilbiganClassLib\\Interfaces\\IResponse.cs",
@@ -279,12 +317,11 @@
               "RelativeToolTip": "CabilbiganClassLib\\Interfaces\\IResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:53:14.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:53:14.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganClassLib\\Model\\Response.cs",
               "RelativeDocumentMoniker": "CabilbiganClassLib\\Model\\Response.cs",
@@ -292,25 +329,24 @@
               "RelativeToolTip": "CabilbiganClassLib\\Model\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:44:14.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:44:14.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Index.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Index.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Index.razor",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T20:41:28.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Event.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\BlazorWebApp\\Pages\\Event.razor",
               "RelativeDocumentMoniker": "BlazorWebApp\\Pages\\Event.razor",
@@ -322,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Shared\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Shared\\MainLayout.razor.css",
@@ -330,31 +366,30 @@
               "RelativeToolTip": "CabilbiganWebApp\\Shared\\MainLayout.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-31T20:40:45.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:40:45.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Shared\\MainLayout.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Shared\\MainLayout.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T20:40:43.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Interactive.razor",
               "DocumentMoniker": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Interactive.razor",
               "RelativeDocumentMoniker": "CabilbiganWebApp\\Pages\\Interactive.razor",
               "ToolTip": "C:\\new\\IPT-102\\CabilbiganSolution - Copy\\CabilbiganWebApp\\Pages\\Interactive.razor",
               "RelativeToolTip": "CabilbiganWebApp\\Pages\\Interactive.razor",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-31T20:40:05.758Z",
               "EditorCaption": ""
